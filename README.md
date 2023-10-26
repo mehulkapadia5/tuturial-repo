@@ -1,2 +1,2 @@
 # tuturial-repo
-This is first repository
+This is first commit
